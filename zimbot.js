@@ -1216,7 +1216,7 @@ case 'mining': case 'mine':{
 if (isBan) throw mess.ban
 if (q.includes('--help')) return m.reply(examkosong) 
   if (!isInventory){ addInventori(m.sender) }
-  if (isCekDarah < 1) return m.reply('*You're exhausted!, try to heal using potions*') 
+  if (isCekDarah < 1) return m.reply('*Youre exhausted!, try to heal using potions*') 
   let besi = [1,2,5,0,3,0,1,1,4,1,5,0,0]
   let emas = [0,1,2,3,0,0,0,1,1,0,0,2]
   let emerald = [0,0,1,0,0,1,0,2,1,0,0,1]
