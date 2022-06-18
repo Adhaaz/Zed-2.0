@@ -7245,29 +7245,6 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃⬤${prefix}summerysand
 ┗━━━━━━━━━⦿
 
-┏━❰ *NSFW MENU* ❱
-┃⬤${prefix}cum
-┃⬤ ${prefix}ass
-┃⬤ ${prefix}culo
-┃⬤ ${prefix}hentai
-┃⬤ ${prefix}blowjob
-┃⬤ ${prefix}bdsm
-┃⬤ ${prefix}gangbang
-┃⬤ ${prefix}pussy
-┃⬤ ${prefix}yuri
-┃⬤ ${prefix}ero
-┃⬤ ${prefix}thighs
-┃⬤ ${prefix}panties
-┃⬤ ${prefix}masturbation
-┃⬤ ${prefix}neko
-┃⬤ ${prefix}orgy
-┃⬤ ${prefix}foot
-┃⬤ ${prefix}glasses
-┃⬤ ${prefix}fendom
-┃⬤ ${prefix}cuckold
-┃⬤ ${prefix}ahegao
-┗━━━━━━━━━⦿
-
 
 ┏━❰ *CERTIFICATEMAKER* ❱
 ┃⬤${prefix}tololserti
