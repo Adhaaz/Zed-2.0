@@ -2331,10 +2331,7 @@ if (isBan) throw mess.ban
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
-                if (!isInventoryLimit){ addInventoriLimit(m.sender) }
-            if (isLimit < 1) return m.reply(mess.endLimit)
-            kurangLimit(m.sender, 1)
-            m.reply(`*1 limit used*`)
+                if (!isInventoryLimit){ addInventoriLimit(m.sender)
                 if (args[0] === "on") {
                 if (db.data.chats[m.chat].mute) return m.reply(`*Already on okay*`)
                 db.data.chats[m.chat].mute = true
