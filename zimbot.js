@@ -2349,7 +2349,7 @@ if (isBan) throw mess.ban
                 }
              }
              break
-            case 'linkgroup': case 'linkgc': {
+case 'linkgc': {
             if (isBan) throw mess.ban
             //if (isLimit(m.sender, isPremium, isCreator, limitCount, limit)) return m.reply(mess.endLimit)
                 if (!m.isGroup) throw mess.group
