@@ -2349,14 +2349,7 @@ if (isBan) throw mess.ban
                 }
              }
              break
-case 'linkgc': {
-            if (isBan) throw mess.ban
-            //if (isLimit(m.sender, isPremium, isCreator, limitCount, limit)) return m.reply(mess.endLimit)
-                if (!m.isGroup) throw mess.group
-                let response = await ZimBotInc.groupInviteCode(m.chat)
-                ZimBotInc.sendText(m.chat, `https://chat.whatsapp.com/${response}\n\n*Link Group* : ${groupMetadata.subject}`, m, { detectLink: true })
-            }
-            break
+
             case 'ephemeral': {
             if (isBan) throw mess.ban
             //if (isLimit(m.sender, isPremium, isCreator, limitCount, limit)) return m.reply(mess.endLimit)
