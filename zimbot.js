@@ -7320,20 +7320,6 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┗━━━━━━━━━━━━⦿
 
 
-┏━❰ *ISLAMIC MENU* ❱
-┃⬤${prefix}listsurah
-┃⬤${prefix}tafsirsurah
-┃⬤${prefix}iqra
-┃⬤${prefix}hadist
-┃⬤${prefix}alquran
-┃⬤${prefix}juzamma
-┃⬤${prefix}jadwalsholat
-┃⬤${prefix}alquran2
-┃⬤${prefix}kisahnabi
-┃⬤${prefix}alquranaudio
-┗━━━━━━━━━━⦿
-
-
 ┏━❰ *VOICE-CHANGER* ❱
 ┃⬤${prefix}fat 
 ┃⬤${prefix}deep 
