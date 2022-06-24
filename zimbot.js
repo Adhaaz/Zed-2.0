@@ -7638,7 +7638,7 @@ urlButton:
 displayText: 'GITHUB',
 url: 'https://github.com/hacker-263/ZeD-Bot'
 }
-},{
+},
 quickReplyButton: {
 displayText: 'SPEED',
 id: 'ping'
