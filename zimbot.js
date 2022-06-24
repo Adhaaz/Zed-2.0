@@ -7628,8 +7628,7 @@ hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
 url: 'https://www.youtube.com/c/Team263Hacks?sub_confirmation=1'
-}
-},
+},{
 urlButton: 
 displayText: 'INSTAGRAM',
 url: 'https://www.instagram.com/young_money_zw'
@@ -7638,7 +7637,7 @@ urlButton:
 displayText: 'GITHUB',
 url: 'https://github.com/hacker-263/ZeD-Bot'
 }
-},
+},{
 quickReplyButton: {
 displayText: 'SPEED',
 id: 'ping'
