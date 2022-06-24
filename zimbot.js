@@ -7681,6 +7681,7 @@ url: 'https://github.com/hacker-263/ZeD-Bot'
 urlButton: {
 displayText: 'INSTAGRAM',
 url: 'https://www.instagram.com/young_money_zw'
+}
 }, {
 quickReplyButton: {
 displayText: 'SPEED',
